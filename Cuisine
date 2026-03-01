@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html bgcolor="Red" lang="bn-BD,en-CA">
+
+<head>
+    <title>Cuisine</title>
+</head>
+
+<body>
+<header>    
+  <h1>Cuisine</h1>
+<p>A cuisine is a style of cooking characterized by distinctive ingredients, techniques, and dishes, and usually associated with a specific culture or geographic region.</p>
+
+<li><a href="#Chinese Cuisine">Chinese Cusine</a></li>
+
+<li><a href="#Turkish Cuisine">Turkish Cusine</a></li>
+
+<li><a href="#Middle Eastern Cuisine">Middle Eastern Cusine</a></li>
+
+<main>
+<section>        
+  <h2>Chinese Cuisine</h2>
+<p>Chinese cuisine has profoundly influenced other cuisines in Asia and beyond, with modifications made to cater to local palates. Chinese food staples like rice, soy sauce, noodles, tea, chili oil, and tofu, and utensils such as chopsticks and the wok, can now be found worldwide.</p>  
+<aside><img src="d:\Chinese cuisine.jpg"></aside>
+</section>
+
+<section>
+   <h2>Turkish Cuisine</h2>
+<p>It developed primarily from Ottoman cuisine, which synthesized Central Asian culinary traditions with Mediterranean and Middle Eastern influences.</p>   
+<aside><img src="d:\Famous-Turkish-Cuisine-Meals.webp"></aside>
+</section>
+
+<section>
+   <h2>Middle Eastern Cuisine</h2>
+<p>Middle Eastern cuisine includes a number of cuisines from the Middle East. Common ingredients include olives and olive oil, pitas, honey, sesame seeds, dates,[1] sumac, chickpeas, mint, rice and parsley, and popular dishes include kebabs, dolmas, falafel, baklava, yogurt, doner kebab, shawarma and mulukhiyah.</p>
+<aside><img src="d:\Middle Eastern Cuisine.avif"></aside>
+
+</section>
+</main>
+
+</header>
+
+<footer>
+
+    <p>Author's Name: Farhan Bashir Joarder</p>
+
+    <p>Made on March 1st, 2026</p> 
+
+</body>
+</html>
