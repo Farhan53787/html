@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <style>
+    #para {
+      color:aquamarine;
+      background-color:white;
+    }
+    .demo {
+      color:brown;
+      background-color:greenyellow
+    }
+  </style>
+</head>
+
+<body>
+  <h1 class="demo">
+    Welcome to Class Selector
+  </h1>
+  <p id="para">New in CSS Programming?</p>
+  <p class="demo">
+    Let's learn CSS together!
+    </p>
+</body>
+
+</html>
