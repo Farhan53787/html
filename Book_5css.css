@@ -1,0 +1,32 @@
+
+<body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: black;;
+}
+nav{
+    background-color: cyan;
+}
+#intro{
+    background-color: lightblue;
+}
+#main-section content h2{
+    background-color: lightgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#best sellers
+footer{
+    /*first lesson*/
+    background-color: lightsalmon;
+}
+
+header,
+nav,
+#intro,
+#main-section,
+#best sellers,
+footer{
+    /*first lesson*/
+    border: 1px solid black;
+}   
