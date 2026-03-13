@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html>
-    <head>
+    <head bgcolor="lightblue">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width">
         <title>Cuisine</title>
         <link href="style.css" rel="stylesheet" type="text/css"/>
-        <style>
-            #description{
+        <style type="text/css">
+            .description{
                 color:yellow;
                 background-color:red;
+                width: 500px;
+                padding: 60px;
+                margin: 100px 125px;
+                border-radius: 50px;
+                font-family: "Comic Sans MS", "Comic Sans", cursive;
             }
             .heading{
                 color:blue;
@@ -21,15 +26,20 @@
                 font-size:30px;
                 font-style:italic;
             }
+            .conclusion {
+                color:rgb(255, 94, 0);
+                background-color:rgb(255, 230, 0);
+            }
         </style>
     </head>
+
     
-<body>
+<body bgcolor="#FAF9F6">
 <header>    
   <h1 class="heading">Bangladeshi Cuisine</h1>
 
   <div>
-    <p id="description">It is mainly based on rice and fish, reflecting the riverine geography  and rich culture. Spicy curries, bhartas, khichuri and hilsa fish are the main attractions here. There is also Mughal influence in biryani and kebabs, and among sweets, Bogra yogurt and pitha-puli are very popular</p>
+    <p class="description">It is mainly based on rice and fish, reflecting the riverine geography  and rich culture. Spicy curries, bhartas, khichuri and hilsa fish are the main attractions here. There is also Mughal influence in biryani and kebabs, and among sweets, Bogra yogurt and pitha-puli are very popular</p>
   </div>
 </header>
 
@@ -69,9 +79,8 @@
 </body>
 </header>
 
-<footer>
+<footer class="conclusion">
 <p><span>Published By:</span> Farhan Bashir</p>
 <p><span>Date:</span> 09.03.2026</p>
 </footer>
-
 </html>
